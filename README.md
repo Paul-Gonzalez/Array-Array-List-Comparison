@@ -19,9 +19,9 @@ One of the biggest advantages of an ArrayList is its flexibility. As programmers
 
 ## Key Differences
 
-Arrays have a fixed length, while ArrayLists can change size. Arrays use `.length` to determine the number of positions, while ArrayLists use `.size()` to determine how many elements they contain.
+Arrays have a fixed length, while ArrayLists can change size. Arrays use .length to determine the number of positions, while ArrayLists use .size() to determine how many elements they contain.
 
-Arrays access elements using square brackets, such as `students[0]`. ArrayLists use methods such as `studentList.get(0)`, `add()`, and `remove()`.
+Arrays access elements using square brackets, such as students[0]. ArrayLists use methods such as studentList.get(0), add(), and remove().
 
 In my student enrollment example, the array maintains its original three positions. However, the ArrayList can add Jacob when he enrolls and remove Sarah when she drops the class.
 
